@@ -1,0 +1,28 @@
+{
+  "business": {
+    "name": "Rapid Response Plumbing",
+    "owner": "Mike",
+    "phone": "(512) 555-0148",
+    "booking_link": "https://calendly.com/rapidplumb/quote"
+  },
+  "business_hours": {
+    "0": ["07:00", "19:00"],
+    "1": ["07:00", "19:00"],
+    "2": ["07:00", "19:00"],
+    "3": ["07:00", "19:00"],
+    "4": ["07:00", "17:00"],
+    "5": ["08:00", "13:00"]
+  },
+  "lead": {
+    "name": "Dana Whitfield",
+    "phone": "(512) 555-2231",
+    "email": "dana@example.com",
+    "source": "missed_call",
+    "received_at": "2026-07-15T18:42",
+    "service": "water heater replacement",
+    "urgency": "high",
+    "message": "Voicemail: no hot water since this morning, two kids, needs it ASAP.",
+    "next_action": "Call back first — this one's urgent, then let the sequence run."
+  },
+  "channels": ["text", "email"]
+}
