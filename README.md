@@ -9,6 +9,9 @@ follow-up sequence**, and a **lead card**, in about 15 seconds. Built as a
 > auto-text + follow-up sequence fire →
 > **https://claude.ai/code/artifact/df646671-8212-41e2-8c64-dae4acd8ad64**
 
+> **👉 New here? Start with [USAGE.md](./USAGE.md)** — use it in 30 seconds with no
+> install, install the full skill, or build it yourself from scratch.
+
 > **Review-first by design.** The skill drafts; you approve and send from your own
 > phone/email. To make it *auto*-send the instant text the moment a call is missed,
 > see [`autosend/`](./autosend/) — the Twilio wiring (Level 2).
